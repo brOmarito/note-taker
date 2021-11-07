@@ -13,7 +13,7 @@ One of the things that I learned the importance of was to resolve my API endpoin
 * Finally, I want to consider adding user feedback
 
 ## Screenshots / Links
-Deployed Link: https://infinite-chamber-29933.herokuapp.com/
+You can find the Deployed Application <a href="https://infinite-chamber-29933.herokuapp.com/" target="_blank" rel="noopener noreferrer">HERE</a>
 <br>
 <br>
 ![Home Page Screenshot](/assets/home-screenshot.PNG)
