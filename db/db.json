@@ -1,17 +1,12 @@
 [
     {
-        "id": "a055cc0d-95be-4b0c-bb29-f2d152e391aa",
-        "title": "Test3",
-        "text": "yet another test"
+        "id": "b15af69e-bf0c-497a-bd6c-c79b30d8c098",
+        "title": "Example",
+        "text": "Here's an example of a note!"
     },
     {
-        "id": "1c1accf4-a5b4-48a9-93fa-78c041f7ae65",
-        "title": "Test4",
-        "text": "and another one"
-    },
-    {
-        "id": "9067d6c4-2ca9-45e5-83b3-9200abaaf7f9",
-        "title": "Woohoo!",
-        "text": "Guess who did it!"
+        "id": "937b77d3-c797-4d92-8ea0-ee3af16d95a1",
+        "title": "Delete Me!",
+        "text": "Test out the delete functionality with this note. Don't worry, it knows it's purpose is to be deleted. :)"
     }
 ]
