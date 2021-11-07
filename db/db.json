@@ -1,6 +1,17 @@
 [
     {
-        "title":"Test Title",
-        "text":"Test text"
+        "id": "a055cc0d-95be-4b0c-bb29-f2d152e391aa",
+        "title": "Test3",
+        "text": "yet another test"
+    },
+    {
+        "id": "1c1accf4-a5b4-48a9-93fa-78c041f7ae65",
+        "title": "Test4",
+        "text": "and another one"
+    },
+    {
+        "id": "9067d6c4-2ca9-45e5-83b3-9200abaaf7f9",
+        "title": "Woohoo!",
+        "text": "Guess who did it!"
     }
 ]
